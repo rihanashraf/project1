@@ -1,0 +1,1802 @@
+[
+  {
+    "patch_id": "patch_0",
+    "col": 0,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_1",
+    "col": 8,
+    "row": 1,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_2",
+    "col": 12,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_3",
+    "col": 10,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_4",
+    "col": 12,
+    "row": 10,
+    "rot": 0,
+    "conf": 0.999996,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_5",
+    "col": 1,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_6",
+    "col": 8,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_7",
+    "col": 11,
+    "row": 11,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_8",
+    "col": 4,
+    "row": 8,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_9",
+    "col": 0,
+    "row": 6,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_10",
+    "col": 8,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_11",
+    "col": 0,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_12",
+    "col": 13,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_13",
+    "col": 5,
+    "row": 13,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_14",
+    "col": 9,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_15",
+    "col": 8,
+    "row": 13,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_16",
+    "col": 10,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_17",
+    "col": 11,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_18",
+    "col": 14,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_19",
+    "col": 13,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_20",
+    "col": 1,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_21",
+    "col": 12,
+    "row": 6,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_22",
+    "col": 5,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_23",
+    "col": 12,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_24",
+    "col": 1,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_25",
+    "col": 7,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_26",
+    "col": 10,
+    "row": 14,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_27",
+    "col": 1,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_28",
+    "col": 14,
+    "row": 9,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_29",
+    "col": 8,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_30",
+    "col": 4,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_31",
+    "col": 1,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_32",
+    "col": 8,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_33",
+    "col": 13,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_34",
+    "col": 13,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_35",
+    "col": 11,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_36",
+    "col": 2,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_37",
+    "col": 3,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_38",
+    "col": 8,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_39",
+    "col": 1,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_40",
+    "col": 10,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_41",
+    "col": 13,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_42",
+    "col": 3,
+    "row": 8,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_43",
+    "col": 6,
+    "row": 9,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_44",
+    "col": 8,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_45",
+    "col": 11,
+    "row": 14,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_46",
+    "col": 9,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_47",
+    "col": 5,
+    "row": 11,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_48",
+    "col": 11,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_49",
+    "col": 3,
+    "row": 14,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_50",
+    "col": 1,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_51",
+    "col": 5,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_52",
+    "col": 3,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_53",
+    "col": 0,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_54",
+    "col": 2,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_55",
+    "col": 7,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_56",
+    "col": 11,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_57",
+    "col": 4,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_58",
+    "col": 3,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_59",
+    "col": 7,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_60",
+    "col": 8,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_61",
+    "col": 11,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_62",
+    "col": 14,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_63",
+    "col": 10,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_64",
+    "col": 6,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_65",
+    "col": 3,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_66",
+    "col": 2,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_67",
+    "col": 3,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_68",
+    "col": 6,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_69",
+    "col": 13,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_70",
+    "col": 14,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_71",
+    "col": 10,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_72",
+    "col": 9,
+    "row": 2,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_73",
+    "col": 8,
+    "row": 6,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_74",
+    "col": 5,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_75",
+    "col": 5,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_76",
+    "col": 7,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_77",
+    "col": 4,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_78",
+    "col": 14,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_79",
+    "col": 12,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_80",
+    "col": 7,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_81",
+    "col": 3,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_82",
+    "col": 0,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_83",
+    "col": 13,
+    "row": 8,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_84",
+    "col": 13,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_85",
+    "col": 13,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_86",
+    "col": 13,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_87",
+    "col": 10,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_88",
+    "col": 5,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_89",
+    "col": 6,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_90",
+    "col": 1,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_91",
+    "col": 9,
+    "row": 10,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_92",
+    "col": 5,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_93",
+    "col": 6,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_94",
+    "col": 2,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_95",
+    "col": 14,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_96",
+    "col": 10,
+    "row": 2,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_97",
+    "col": 13,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_98",
+    "col": 8,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_99",
+    "col": 9,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_100",
+    "col": 1,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_101",
+    "col": 4,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_102",
+    "col": 4,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_103",
+    "col": 1,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_104",
+    "col": 12,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_105",
+    "col": 14,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_106",
+    "col": 7,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_107",
+    "col": 12,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_108",
+    "col": 12,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_109",
+    "col": 0,
+    "row": 3,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_110",
+    "col": 2,
+    "row": 2,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_111",
+    "col": 10,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_112",
+    "col": 2,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_113",
+    "col": 2,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_114",
+    "col": 5,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_115",
+    "col": 4,
+    "row": 6,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_116",
+    "col": 14,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_117",
+    "col": 7,
+    "row": 4,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_118",
+    "col": 4,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_119",
+    "col": 5,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_120",
+    "col": 9,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_121",
+    "col": 0,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_122",
+    "col": 5,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_123",
+    "col": 6,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_124",
+    "col": 3,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_125",
+    "col": 11,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_126",
+    "col": 5,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_127",
+    "col": 13,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_128",
+    "col": 7,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_129",
+    "col": 6,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_130",
+    "col": 7,
+    "row": 7,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_131",
+    "col": 0,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_132",
+    "col": 2,
+    "row": 1,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_133",
+    "col": 6,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_134",
+    "col": 2,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_135",
+    "col": 0,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_136",
+    "col": 14,
+    "row": 10,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_137",
+    "col": 4,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_138",
+    "col": 1,
+    "row": 1,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_139",
+    "col": 14,
+    "row": 2,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_140",
+    "col": 2,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_141",
+    "col": 10,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_142",
+    "col": 9,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_143",
+    "col": null,
+    "row": null,
+    "rot": null,
+    "conf": 0.0,
+    "status": "UNPLACED"
+  },
+  {
+    "patch_id": "patch_144",
+    "col": 10,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_145",
+    "col": 9,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_146",
+    "col": 7,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_147",
+    "col": 0,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_148",
+    "col": 2,
+    "row": 5,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_149",
+    "col": 12,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_150",
+    "col": 11,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_151",
+    "col": 2,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_152",
+    "col": 6,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_153",
+    "col": 11,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_154",
+    "col": 4,
+    "row": 3,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_155",
+    "col": 11,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_156",
+    "col": 14,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_157",
+    "col": 0,
+    "row": 10,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_158",
+    "col": 12,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_159",
+    "col": 7,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_160",
+    "col": 6,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_161",
+    "col": 0,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_162",
+    "col": 9,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_163",
+    "col": 1,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_164",
+    "col": 2,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_165",
+    "col": 8,
+    "row": 5,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_166",
+    "col": 5,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_167",
+    "col": 1,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_168",
+    "col": 12,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_169",
+    "col": 12,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_170",
+    "col": 0,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_171",
+    "col": 3,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_172",
+    "col": 5,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_173",
+    "col": 10,
+    "row": 5,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_174",
+    "col": 13,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_175",
+    "col": 8,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_176",
+    "col": 14,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_177",
+    "col": 5,
+    "row": 5,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_178",
+    "col": 12,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_179",
+    "col": 9,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_180",
+    "col": 1,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_181",
+    "col": 0,
+    "row": 13,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_182",
+    "col": 9,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_183",
+    "col": 14,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_184",
+    "col": 4,
+    "row": 1,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_185",
+    "col": 14,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_186",
+    "col": 4,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_187",
+    "col": 4,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_188",
+    "col": 9,
+    "row": 7,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_189",
+    "col": 3,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_190",
+    "col": 0,
+    "row": 1,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_191",
+    "col": 3,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_192",
+    "col": 9,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_193",
+    "col": 6,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_194",
+    "col": 10,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_195",
+    "col": 4,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_196",
+    "col": 11,
+    "row": 3,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_197",
+    "col": 11,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_198",
+    "col": 13,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_199",
+    "col": 14,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_200",
+    "col": 12,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_201",
+    "col": 10,
+    "row": 6,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_202",
+    "col": 6,
+    "row": 4,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_203",
+    "col": 9,
+    "row": 0,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_204",
+    "col": 6,
+    "row": 14,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_205",
+    "col": 3,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_206",
+    "col": 3,
+    "row": 1,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_207",
+    "col": 8,
+    "row": 3,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_208",
+    "col": 6,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_209",
+    "col": 13,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_210",
+    "col": 12,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_211",
+    "col": 7,
+    "row": 2,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_212",
+    "col": 7,
+    "row": 10,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_213",
+    "col": 4,
+    "row": 0,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_214",
+    "col": 6,
+    "row": 11,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_215",
+    "col": 7,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_216",
+    "col": 7,
+    "row": 8,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_217",
+    "col": 8,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_218",
+    "col": 11,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_219",
+    "col": 2,
+    "row": 4,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_220",
+    "col": 10,
+    "row": 7,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_221",
+    "col": 1,
+    "row": 14,
+    "rot": 0,
+    "conf": 0.999998,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_222",
+    "col": 2,
+    "row": 14,
+    "rot": 0,
+    "conf": 0.999999,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_223",
+    "col": 9,
+    "row": 12,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  },
+  {
+    "patch_id": "patch_224",
+    "col": 3,
+    "row": 9,
+    "rot": 0,
+    "conf": 1.0,
+    "status": "CONFIRMED"
+  }
+]
