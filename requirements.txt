@@ -1,0 +1,14 @@
+# Core
+numpy>=1.24,<2.0
+Pillow>=10.0
+
+# VLM inference
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.45.0
+accelerate>=0.26.0
+bitsandbyte s>=0.41.0
+huggingface_hub>=0.20.0
+
+# Optional — faster image pre-processing for Qwen2-VL
+qwen-vl-utils>=0.0.8
